@@ -1,10 +1,5 @@
 # Maqueta
 Simulación Interactiva del Sistema Solar con HTML, CSS y JavaScript
-# Maqueta Interactiva: Vía Láctea y Sistema Solar
-
-Este proyecto es una maqueta digital interactiva que permite visualizar la Vía Láctea y explorar el Sistema Solar de manera educativa y atractiva. Está desarrollado con JavaScript, Three.js y Canvas 2D.
-
----
 
 ## Objetivo
 
