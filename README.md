@@ -74,21 +74,11 @@ Maqueta_Sistema_Solar/
 ---
 
 ## 📝 Ejemplo de Uso
+![imagen](https://github.com/user-attachments/assets/6a5fb9de-dde9-4a75-8536-987773178492)
 
-1. **Inicio:**  
-   ![Vista de la Vía Láctea](assets/via-lactea-demo.png)
+![imagen](https://github.com/user-attachments/assets/851e49c4-2b9c-4aac-8cfc-a935440095ec)
 
-2. **Transición:**  
-   ![Estrella viajando](assets/estrella-viajando-demo.png)
-
-3. **Sistema Solar 3D:**  
-   ![Sistema Solar 3D](assets/sistema-solar-3d-demo.png)
-
-4. **Tarjeta de descripción:**  
-   ![Descripción de un planeta](assets/descripcion-planeta-demo.png)
-
-*(Agrega tus propias capturas de pantalla en la carpeta `assets/` para ilustrar estas etapas)*
-
+![imagen](https://github.com/user-attachments/assets/fdc0bacd-5451-44ee-8dac-1629502220a0)
 
 ## Licencia
 
