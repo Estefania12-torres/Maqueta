@@ -1,5 +1,10 @@
 # Maqueta
 Simulación Interactiva del Sistema Solar con HTML, CSS y JavaScript
+![imagen](https://github.com/user-attachments/assets/6a5fb9de-dde9-4a75-8536-987773178492)
+
+![imagen](https://github.com/user-attachments/assets/851e49c4-2b9c-4aac-8cfc-a935440095ec)
+
+![imagen](https://github.com/user-attachments/assets/fdc0bacd-5451-44ee-8dac-1629502220a0)
 
 ## Objetivo
 
@@ -66,15 +71,6 @@ Maqueta_Sistema_Solar/
    - Haz clic en el Sol para regresar a la galaxia.
    - Haz clic en los planetas para ver sus descripciones.
 
----
 
-## 📝 Ejemplo de Uso
-![imagen](https://github.com/user-attachments/assets/6a5fb9de-dde9-4a75-8536-987773178492)
-
-![imagen](https://github.com/user-attachments/assets/851e49c4-2b9c-4aac-8cfc-a935440095ec)
-
-![imagen](https://github.com/user-attachments/assets/fdc0bacd-5451-44ee-8dac-1629502220a0)
-
-## Licencia
 
 Este proyecto está bajo la licencia MIT.
